@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DMTK</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Вийти</string>
+    <string name="title_activity_rozklad">Розклад</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="name1">Документи</string>
+    <string name="name2">ВКонтакті</string>
+    <string name="name3">Новини</string>
+    <string name="name4">Розклад</string>
+    <string name="title_activity_news">Новини</string>
+    <string name="title_activity_documents">Документи</string>
+    <string name="do1">Методчні вказівки для курсової роботи для груп ПК</string>
+    <string name="do2">Методичні вказівки для груп ПК</string>
+    <string name="do3">Завдання для контрольних робіт</string>
+    <string name="do4">Людино-машинний інтерфейс</string>
+    <string name="title_activity_list">list</string>
+</resources>
